@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://severancepaykr.github.io/sitemap.xml
